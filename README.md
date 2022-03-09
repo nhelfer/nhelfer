@@ -15,7 +15,12 @@
 
 - 📫 How to reach me **nicolas.helfer@gmail.com**
 
-- 📄 Know about my experiences [Après une expérience significative dans la conception et développement d’applications mobiles et web, je me suis tourné vers la gestion de projet. J’ai alors géré des projets de développement et de tests de non-régression. J’ai principalement travaillé sur des applications bancaires dans des systèmes d’information complexes (flux et monétique). Mon expérience sur des métiers variés me permet de savoir m’adapter au besoin client pour y répondre au mieux. J’accompagne aujourd’hui les organisations et les équipes dans leur transformation agile et j’interviens en tant que speaker à des évènements tels que le Devfest Nantes ou le Web2Day.](Après une expérience significative dans la conception et développement d’applications mobiles et web, je me suis tourné vers la gestion de projet. J’ai alors géré des projets de développement et de tests de non-régression. J’ai principalement travaillé sur des applications bancaires dans des systèmes d’information complexes (flux et monétique). Mon expérience sur des métiers variés me permet de savoir m’adapter au besoin client pour y répondre au mieux. J’accompagne aujourd’hui les organisations et les équipes dans leur transformation agile et j’interviens en tant que speaker à des évènements tels que le Devfest Nantes ou le Web2Day.)
+- 📄 Know about my experiences 
+<p>
+   Après une expérience significative dans la conception et développement d’applications mobiles et web, je me suis tourné vers la gestion de projet. J’ai alors géré des projets de développement et de tests de non-régression. J’ai principalement travaillé sur des applications bancaires dans des systèmes d’information complexes (flux et monétique). 
+  <br/>
+  Mon expérience sur des métiers variés me permet de savoir m’adapter au besoin client pour y répondre au mieux. J’accompagne aujourd’hui les organisations et les équipes dans leur transformation agile et j’interviens en tant que speaker à des évènements tels que le Devfest Nantes ou le Web2Day.
+ </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
