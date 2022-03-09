@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nhelfer" target="blank"><img src="https://img.shields.io/twitter/follow/nhelfer?logo=twitter&style=for-the-badge" alt="nhelfer" /></a> </p>
 
-- 🔭 I’m currently working on **Digital entity**
+- 🔭 I’m currently working on **ASI's Nantes Digital entity**
 
 - 📝 I regularly write articles on [https://www.asi.fr/blog](https://www.asi.fr/blog)
 
